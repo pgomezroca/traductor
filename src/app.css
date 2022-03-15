@@ -1,0 +1,26 @@
+h1{
+  color:#0066A2 ;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+textarea{
+ width: 90%;
+ margin: 4em;
+ padding: 12px 20px ;
+ display: block;
+ border:2px solid #0066A2 ;
+}
+.form-submit-button {
+ margin-left: 50%;
+ background: #0066A2;
+ color: white;
+ border-style: outset;
+ border-color: #0066A2;
+ height: 50px;
+ width: 100px;
+ font: bold15px arial,sans-serif;
+ text-shadow: none;
+ }
+
+
